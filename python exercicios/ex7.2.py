@@ -1,5 +1,5 @@
 # ------ exercicio 7.2--------
-
+#jogo de adivinhação 
 
 n = int(7)
 

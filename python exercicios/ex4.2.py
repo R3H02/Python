@@ -1,4 +1,5 @@
 # ------ exercicio 4.2 ---------
+#receba dois numeros e um caracter representando uma operação matematica (+,-,*,/)
 
 num1 = float(input("Digite o primeiro numero: "))
 operador = input("Digite o operador (+, -, *, /): ")

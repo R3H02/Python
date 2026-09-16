@@ -1,4 +1,5 @@
 # ------ exercicio 3.2 ---------
+#receba a nota de um aluno e verificar sua situação acdemica
 
 nota = float(input("Digite sua nota: "))
 

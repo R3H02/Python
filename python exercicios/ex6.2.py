@@ -1,4 +1,5 @@
 # ------ exercicio 6.2 ---------
+#contagem regressiva 10 ate 0 utilizando while 
 
 contador = 10
 

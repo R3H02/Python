@@ -1,4 +1,5 @@
 # ----- exercicio 1.1 -------
+#declare um variavel para cada um dos seguintes tipos de dados: string, inteiro, float e booleano. Em seguida, imprima o valor de cada variável na tela.
 
 nome = "Joao"
 idade = 25

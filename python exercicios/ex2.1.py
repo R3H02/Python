@@ -1,4 +1,5 @@
 # ----- exercicio 2.1 -----------
+#
 
 produtos = ["Café", "Leite", "Pão"]
 precos = [5.00, 4.50, 3.00]

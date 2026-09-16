@@ -1,4 +1,5 @@
 # ------ exercicio 3.1 ---------
+#verirca se o numero escolhido é impar ou par 
 
 n = int(input("Digite um numero: "))
 
